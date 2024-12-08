@@ -25,7 +25,7 @@ list_of_files=[
     "Dockerfile",
     "setup.py",
     "notebook/1-EDA.ipynb",
-    "notebook/2-model_training.ipynb"
+    "notebook/2-model_training.ipynb",
     "templates/index.html",
     "app.py"
 
